@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "uMusic",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "uMusic"
+  },
+  "author": "pth-1641",
+  "icons": {
+    "32": "logo/32.png",
+    "64": "logo/64.png",
+    "128": "logo/128.png"
+  }
+}
